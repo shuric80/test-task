@@ -1,0 +1,4 @@
+* Create virtualenv
+** `pipenv shell && pipenv install`
+* Start
+** `python app.py runserver`
